@@ -1,0 +1,17 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+header nav {
+    display:none;
+}
+
+main p {
+    font-size: 14px;
+    color:black;
+}
+
+main h2.dif {
+    color:black;
+}
